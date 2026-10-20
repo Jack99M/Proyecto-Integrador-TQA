@@ -35,10 +35,6 @@ Proyecto-Integrador-TQA/
 - **Estudiante / Responsable:** Juan Mayta (`@Jack99M`)
 - **Universidad:** Franz Tamayo (UNIFRANZ) — Sede La Paz
 
-## 👨‍🏫 Docente Evaluador
-- **Docente:** Ing. Reynel Sánchez Ch.
-- **Correo Institucional:** `doc.reynel.sanchez.ch@unifranz.edu.bo`
-
 ---
 
 ## 📌 Convenciones de Commits
